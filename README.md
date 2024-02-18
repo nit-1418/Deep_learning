@@ -23,4 +23,4 @@ In this repository, you'll find a diverse range of projects covering different a
 To get started with our projects, simply clone this repository to your local machine and explore the projects in the respective directories. Each project comes with detailed instructions and documentation to help you understand the code and replicate the experiments.
 
 ```bash
-git clone https://github.com/your-username/machine-learning-projects.git
+git clone https://github.com/nit-1418/Deep_learning.git
